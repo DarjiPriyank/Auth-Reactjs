@@ -1,0 +1,5 @@
+[0904/115510.916:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0904/115511.010:ERROR:exception_snapshot_win.cc(99)] thread ID 16036 not found in process
+[0904/115511.885:ERROR:minidumpwritedump_with_crashpad_info.cc(435)] Failed to call MiniDumpWriteDump: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x8007012B)
+[0904/115511.885:ERROR:minidumpwritedump_with_crashpad_info.cc(592)] Failed to write minidump file
+[0904/115511.885:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
